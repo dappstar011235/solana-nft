@@ -1,0 +1,12 @@
+/home/solana/mysolanaapp/target/release/deps/libthiserror_impl-84cfadd8ac9dd0fe.so: /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/lib.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/ast.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/attr.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/expand.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/fmt.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/generics.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/prop.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/valid.rs
+
+/home/solana/mysolanaapp/target/release/deps/thiserror_impl-84cfadd8ac9dd0fe.d: /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/lib.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/ast.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/attr.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/expand.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/fmt.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/generics.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/prop.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/valid.rs
+
+/home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/lib.rs:
+/home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/ast.rs:
+/home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/attr.rs:
+/home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/expand.rs:
+/home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/fmt.rs:
+/home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/generics.rs:
+/home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/prop.rs:
+/home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/valid.rs:

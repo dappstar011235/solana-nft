@@ -1,0 +1,13 @@
+/home/solana/mysolanaapp/target/release/deps/quote-b8a6407599819dee.rmeta: /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/lib.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ext.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/format.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ident_fragment.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/to_tokens.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/runtime.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/spanned.rs
+
+/home/solana/mysolanaapp/target/release/deps/libquote-b8a6407599819dee.rlib: /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/lib.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ext.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/format.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ident_fragment.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/to_tokens.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/runtime.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/spanned.rs
+
+/home/solana/mysolanaapp/target/release/deps/quote-b8a6407599819dee.d: /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/lib.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ext.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/format.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ident_fragment.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/to_tokens.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/runtime.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/spanned.rs
+
+/home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/lib.rs:
+/home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ext.rs:
+/home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/format.rs:
+/home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ident_fragment.rs:
+/home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/to_tokens.rs:
+/home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/runtime.rs:
+/home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/spanned.rs:

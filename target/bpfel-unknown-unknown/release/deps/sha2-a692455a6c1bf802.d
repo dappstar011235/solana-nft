@@ -1,0 +1,13 @@
+/home/solana/mysolanaapp/target/bpfel-unknown-unknown/release/deps/sha2-a692455a6c1bf802.rmeta: /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.5/src/lib.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.5/src/core_api.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.5/src/sha256.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.5/src/sha512.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.5/src/consts.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.5/src/sha256/soft.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.5/src/sha512/soft.rs
+
+/home/solana/mysolanaapp/target/bpfel-unknown-unknown/release/deps/libsha2-a692455a6c1bf802.rlib: /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.5/src/lib.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.5/src/core_api.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.5/src/sha256.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.5/src/sha512.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.5/src/consts.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.5/src/sha256/soft.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.5/src/sha512/soft.rs
+
+/home/solana/mysolanaapp/target/bpfel-unknown-unknown/release/deps/sha2-a692455a6c1bf802.d: /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.5/src/lib.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.5/src/core_api.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.5/src/sha256.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.5/src/sha512.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.5/src/consts.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.5/src/sha256/soft.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.5/src/sha512/soft.rs
+
+/home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.5/src/lib.rs:
+/home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.5/src/core_api.rs:
+/home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.5/src/sha256.rs:
+/home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.5/src/sha512.rs:
+/home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.5/src/consts.rs:
+/home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.5/src/sha256/soft.rs:
+/home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.5/src/sha512/soft.rs:

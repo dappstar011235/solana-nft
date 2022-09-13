@@ -1,0 +1,10 @@
+/home/solana/mysolanaapp/target/release/deps/borsh_schema_derive_internal-b8083cf9727be017.rmeta: /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.3/src/lib.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.3/src/helpers.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.3/src/enum_schema.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.3/src/struct_schema.rs
+
+/home/solana/mysolanaapp/target/release/deps/libborsh_schema_derive_internal-b8083cf9727be017.rlib: /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.3/src/lib.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.3/src/helpers.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.3/src/enum_schema.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.3/src/struct_schema.rs
+
+/home/solana/mysolanaapp/target/release/deps/borsh_schema_derive_internal-b8083cf9727be017.d: /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.3/src/lib.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.3/src/helpers.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.3/src/enum_schema.rs /home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.3/src/struct_schema.rs
+
+/home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.3/src/lib.rs:
+/home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.3/src/helpers.rs:
+/home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.3/src/enum_schema.rs:
+/home/solana/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.3/src/struct_schema.rs:
