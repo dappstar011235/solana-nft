@@ -1,5 +1,5 @@
 [package]
-name = "solana-nft-demo"
+name = "game-nft"
 version = "0.1.0"
 edition = "2018"
 
@@ -17,5 +17,5 @@ num_enum = "0.5.4"
 solana-sdk = "1.7.11"
 
 [lib]
-name = "nft"
+name = "game-nft"
 crate-type = ["cdylib", "lib"]
