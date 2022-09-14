@@ -2,7 +2,7 @@ import './App.css';
 import { useState } from 'react';
 import { Connection, PublicKey } from '@solana/web3.js';
 import {
-  Program, Provider, web3
+  Program, AnchorProvider, web3
 } from '@project-serum/anchor';
 import idl from './idl.json';
 
@@ -34,7 +34,7 @@ function App() {
     const network = "https://api.testnet.solana.com";
     const connection = new Connection(network, opts.preflightCommitment);
 
-    const provider = new Provider(
+    const provider = new AnchorProvider(
       connection, wallet, opts.preflightCommitment,
     );
     return provider;
